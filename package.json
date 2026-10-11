@@ -2,7 +2,15 @@
   "name": "ngx-maps",
   "version": "0.0.1",
   "description": "Generic map and layer library for Angular (OpenLayers engine), with plugins and feature kits. Name reserved; first real release pending.",
-  "keywords": ["angular", "map", "maps", "openlayers", "layers", "offline", "mbtiles"],
+  "keywords": [
+    "angular",
+    "map",
+    "maps",
+    "openlayers",
+    "layers",
+    "offline",
+    "mbtiles"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/primax79/ngx-maps.git"
@@ -12,8 +20,11 @@
     "url": "https://github.com/primax79/ngx-maps/issues"
   },
   "author": "Alfredo Oliviero",
-  "license": "UNLICENSED",
-  "files": ["README.md"],
+  "license": "EUPL-1.2",
+  "files": [
+    "README.md",
+    "LICENSE.md"
+  ],
   "publishConfig": {
     "access": "public"
   }

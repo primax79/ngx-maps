@@ -16,4 +16,5 @@ Planned packages (scope `@ngx-maps/*`):
 | `@ngx-maps/plugin-*` | tile and feature sources (XYZ, WMS, vector, MBTiles, PMTiles) |
 | `@ngx-maps/offline` | managed offline areas, package export and import |
 
-Licence: to be decided before the first real release.
+Licensed under the EUPL-1.2 (European Union Public Licence v. 1.2), see [LICENSE.md](LICENSE.md).
+The same licence as the gCube components this library is meant to work with.
